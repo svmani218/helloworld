@@ -1,2 +1,2 @@
-replicas: 2
+replicas: 10
 tier: tier1
